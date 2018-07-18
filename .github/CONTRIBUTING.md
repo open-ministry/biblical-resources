@@ -7,7 +7,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Submitting a fix
 - Proposing new resources
 
-## Review Our [Code of Conduct]()
+## Review Our [Code of Conduct](https://github.com/ccannon94/biblical-resources/blob/master/.github/CODE_OF_CONDUCT.md)
 All contributors are expected to follow the code of conduct when contributing to or discussing this project.
 
 ## We Develop with Github
@@ -27,7 +27,7 @@ Pull requests are the best way to propose changes to the resources (we use [Gith
 In short, when you submit changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report issues using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
-We use GitHub issues to track public bugs and requests. Report an issue by [opening a new issue](); it's that easy!
+We use GitHub issues to track public bugs and requests. Report an issue by [opening a new issue](https://github.com/ccannon94/biblical-resources/issues/new); it's that easy!
 
 ## Write issues with detail and background
 It is important that this project be as correct and useful as possible. Therefore, if you see and error or see something you'd like to have added, please share it!
